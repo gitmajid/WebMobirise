@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "LulurKecantikan.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 31,
     "versionPublish": "4.8.6",
@@ -42,7 +42,9 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-herbafara-128x95-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -566,9 +568,9 @@
         }
       ]
     },
-    "page1.html": {
+    "LulurKecantikan.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "Lulur Bubuk Kecantikan Tradisional Asli Indonesia",
         "title": "Herbafara",
         "order": 1
       },
